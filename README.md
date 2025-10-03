@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2023 😅 <br>
-📚 I'm currently learning ASP.NET Core, Clean Architecture, and advanced concepts in Full Stack development <br>
-🎯 Goals: Become a skilled Full Stack .NET Developer and land my first software engineering job <br>
-🎲 Fun fact: I debug my code for hours only to discover it works fine on another machine 😂
+✨ Creating and improving software solutions since 2023 <br>
+📚 I'm currently focusing on mastering ASP.NET Core, Entity Framework Core, and Clean Architecture for building scalable applications <br>
+🎯 Goals: To grow as a professional Full Stack .NET Developer, contribute to impactful projects, and continuously enhance my problem-solving skills <br>
+🎲 Fun fact: I enjoy turning complex problems into simple solutions — and sometimes discover the solution after a lot of coffee ☕
 </p>
 
 
