@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+✨ Creating bugs since 2023 😅 <br>
+📚 I'm currently learning ASP.NET Core, Clean Architecture, and advanced concepts in Full Stack development <br>
+🎯 Goals: Become a skilled Full Stack .NET Developer and land my first software engineering job <br>
+🎲 Fun fact: I debug my code for hours only to discover it works fine on another machine 😂
+</p>
+
 
 ###
 
